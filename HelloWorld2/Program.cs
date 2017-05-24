@@ -10,6 +10,9 @@ namespace HelloWorld2
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Hello Again");
+            System.Console.WriteLine("Next Hello After Change");
+            System.Console.ReadLine();
         }
     }
 }
